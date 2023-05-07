@@ -1,0 +1,10 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+ul, a{
+    text-decoration: none;
+    list-style: none;
+    padding: 0px;
+}
